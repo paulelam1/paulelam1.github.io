@@ -1,0 +1,23 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+html {
+  height: 90%;
+  background-color: #2146ff;
+}
+body {
+   width: 800px;
+   height: 100%;
+}
+
+header {
+    background-color: #1cff35;
+    padding: 5px;
+    font-size: 35;
+    text-align: center;
+    display: block;
+}
+
+a {
+    color: white;
+}
